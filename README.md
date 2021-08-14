@@ -13,6 +13,15 @@ Team project for Data Ethics (BA840)
   - What demographic factors are associated with higher audit rates?
   - Is the algorithm fair in how it assigns audits? 
 
+### Methods
+- Exploratory data analysis for fairness analysis
+  - Gender analysis
+  - Race analysis
+  - Income analysis
+  - Unemployment analysis 
+  - Professionals analysis
+- Decision Tree
+
 ### Project Summary
 - We examined the distribution and relationship between the audits and the demographic variables (race, gender, income level, etc) and applied **decision tree** for predicting audit rates. We found that race and socioeconomic status could be the proxy variables in the audit algorithm, even though the algorithm does not explicitly consider them. 
 - In terms of consequentialism and deontology:
