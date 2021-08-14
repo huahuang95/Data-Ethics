@@ -14,6 +14,7 @@ Team project for Data Ethics (BA840)
   - Is the algorithm fair in how it assigns audits? 
 
 ### Methods
+- Language: Python
 - Exploratory data analysis for fairness analysis
   - Gender analysis
   - Race analysis
