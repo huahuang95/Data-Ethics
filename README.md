@@ -14,7 +14,7 @@ Team project for Data Ethics (BA840)
   - Is the algorithm fair in how it assigns audits? 
 
 ### Project Summary
-- By exploratory data analysis, we examine the distribution and relationship between the audits and the demographic variables (race, gender, income level, etc). We found that race and socioeconomic status could be the proxy variables in the audit algorithm, even though the algorithm does not explicitly consider them. 
+- We examined the distribution and relationship between the audits and the demographic variables (race, gender, income level, etc) and applied **decision tree** for predicting audit rates. We found that race and socioeconomic status could be the proxy variables in the audit algorithm, even though the algorithm does not explicitly consider them. 
 - In terms of consequentialism and deontology:
   - Consequentialism:
     The algorithm doesn't result in a good outcome on balance. Lower-income taxpayers face a higher chance of an audit. If the audit algorithm is unfair, it will result in certain groups of people will be treated unfairly in terms of time input in filing tax return documents.
